@@ -1,6 +1,6 @@
 # COMP Virtual File System
 
-**COMP2021 — Object-Oriented Programming Course Project**
+**COMP2021 — Object-Oriented Programming Course Project （2024）**
 
 A command-line virtual file system implemented in Java. It supports creating and managing virtual disks, directories, and documents; recursive listing and criterion-based search; saving and loading disk states; and undo/redo operations.
 
