@@ -1,0 +1,6 @@
+out/
+build/
+*.class
+.idea/
+.DS_Store
+/testpath
